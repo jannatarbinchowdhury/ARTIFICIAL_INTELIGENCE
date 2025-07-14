@@ -23,17 +23,6 @@ This is a simple web-based Tic Tac Toe game where you play against an AI opponen
 ## Algorithm Used
 The AI opponent uses the **Minimax algorithm**, a recursive decision-making algorithm used in game theory and AI to find the optimal move. It evaluates all possible moves and their outcomes to choose the best possible move, ensuring the AI never loses. 🧩♟️
 
-## Images / Screenshots
-Below are some example screenshots of the game interface:
-
-![Game Start](./images/game_start.png)
-*Game board at the start* 🎲
-
-![Mid Game](./images/game_mid.png)
-*Game in progress* ⏳
-
-![Game Over](./images/game_over.png)
-*Game over with a winner* 🏆
 
 *Note: Replace the above image paths with actual screenshots of your game. You can take screenshots by opening the game in a browser and capturing the screen.* 📸
 
